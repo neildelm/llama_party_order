@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/llama_party_order.iml" filepath="$PROJECT_DIR$/.idea/modules/llama_party_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/llama_party_order_main.iml" filepath="$PROJECT_DIR$/.idea/modules/llama_party_order_main.iml" group="llama_party_order" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/llama_party_order_test.iml" filepath="$PROJECT_DIR$/.idea/modules/llama_party_order_test.iml" group="llama_party_order" />
+    </modules>
+  </component>
+</project>
